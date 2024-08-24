@@ -6,4 +6,8 @@ public class HomePage {
 
     //whatever
 
+    // more things for update
+
+    //...
+
 }
